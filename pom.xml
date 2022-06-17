@@ -41,7 +41,7 @@
         <jstl.version>1.2</jstl.version>
         <jackson.core.version>2.6.1</jackson.core.version>
         <jackson-mapper-asl.version>1.9.4</jackson-mapper-asl.version>
-        <fastjson.version>1.2.28</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <jedis.version>2.9.0</jedis.version>
         <spring-data-redis.version>1.7.8.RELEASE</spring-data-redis.version>
         <commons.codec.version>1.8</commons.codec.version>
