@@ -89,7 +89,7 @@
         <disconf-client.version>2.6.36</disconf-client.version>
         <alibaba.dubbo.version>2.5.3</alibaba.dubbo.version>
 
-        <org.springframework.amqp.version>1.7.1.RELEASE</org.springframework.amqp.version>
+        <org.springframework.amqp.version>1.7.11.RELEASE</org.springframework.amqp.version>
         <com.rabbitmq.version>4.1.0</com.rabbitmq.version>
 
         <commons-io.version>2.4</commons-io.version>
